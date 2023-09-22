@@ -1,6 +1,6 @@
 ﻿# Decision_Trees
 
-Título: Desvendando o Poder das Árvores de Decisão em Aprendizado de Máquina
+Desvendando o Poder das Árvores de Decisão em Aprendizado de Máquina
 
 Olá a todos! Neste artigo, exploraremos uma técnica de aprendizado de máquina fascinante e altamente versátil: as Árvores de Decisão. As Árvores de Decisão são uma ferramenta poderosa que pode ser usada para resolver uma variedade de problemas de classificação e regressão, e o melhor de tudo, elas são fáceis de entender e interpretar.
 
@@ -38,7 +38,8 @@ As Árvores de Decisão são uma ferramenta poderosa e intuitiva em aprendizado 
 
 Fontes:
 
-Scikit-Learn - Decision Trees
-Towards Data Science - A Gentle Introduction to Decision Trees
-Machine Learning Mastery - How Decision Trees Work
+[Scikit-Learn - Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
+[Towards Data Science - A Gentle Introduction to Decision Trees](https://towardsdatascience.com/a-gentle-introduction-to-decision-trees-126a47c18d28)
+[Machine Learning Mastery - How Decision Trees Work](https://machinelearningmastery.com/how-decision-trees-work-for-machine-learning/)
+
 Espero que este artigo tenha fornecido uma visão sólida sobre Árvores de Decisão e sua aplicação no aprendizado de máquina. Se você está apenas começando em aprendizado de máquina, as Árvores de Decisão são um ótimo ponto de partida para sua jornada de aprendizado.
